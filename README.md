@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4-en)](https://github.com/4-en/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4-en&count-private=true)](https://github.com/4-en/)
 
 <!--
 **4-en/4-en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
