@@ -1,20 +1,25 @@
 ![header](https://github.com/4-en/4-en/assets/105049118/1f22e492-1493-42fe-b4dc-4b7245570910)
 ### Hi there 👋
+my name is Ben and I'm a Media Computer Science student from Germany.
+I am currently studying for one semester at SeoulTech in South Korea and will hopefully update this page regularly with new projects and experiences :laughing:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4-en&count-private=true)](https://github.com/4-en/)
+Most of these projects are just for fun or related to my studies. They are from a few different fields and I hope you find something interesting :smile:
 
-<!--
-**4-en/4-en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The projects are written in a few different languages, but the most important ones are:
+- Python :snake:
+- C++ :warning:
+- JavaScript :wastebasket:
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
+- Email: [bschumacher@stud.hs-bremen.de](mailto:bschumacher@stud.hs-bremen.de)
+- GitHub: [@4-en](https://github.com/4-en)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<div style="display: flex; align-items: center; justify-content: space-around; padding: 20px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-en&count-private=true)" alt="Top Langs">
+</div>
+
+
 
