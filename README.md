@@ -17,7 +17,7 @@ The projects are written in a few different languages, but the most important on
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=4-en" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-en&count_weight=0.5&size_weight=0.5&layout=donut&hide=jupyter%20notebook,hlsl,shaderlab,html,css,&card_width=320)" alt="Top Langs">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-en&count_weight=0.5&size_weight=0.5&layout=donut&hide=jupyter%20notebook,hlsl,shaderlab,html,css,&card_width=320&exclude_repo=https://github.com/4-en/SmallWorld)" alt="Top Langs">
 </a>
 
 
