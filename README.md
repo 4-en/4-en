@@ -14,10 +14,10 @@ The projects are written in a few different languages, but the most important on
 - GitHub: [@4-en](https://github.com/4-en)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=4-en" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=4-en" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-en&count_weight=0.5&size_weight=0.5&layout=donut&hide=jupyter%20notebook,hlsl,shaderlab,html,css,&card_width=320)" alt="Top Langs">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-en&count_weight=0.5&size_weight=0.5&layout=donut&hide=jupyter%20notebook,hlsl,shaderlab,html,css,&card_width=350)" alt="Top Langs">
 </a>
 
 
