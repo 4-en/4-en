@@ -17,7 +17,7 @@ The projects are written in a few different languages, but the most important on
 
 
 <div style="display: flex; align-items: center; justify-content: space-around; padding: 20px; width: 100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-en&count_weight=1&size_weight=1&layout=donut-vertical&hide=jupyter%20notebook,)" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-en&count_weight=0.5&size_weight=0.5&layout=donut-vertical&hide=jupyter%20notebook,)" alt="Top Langs">
 </div>
 
 
