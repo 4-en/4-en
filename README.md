@@ -1,6 +1,6 @@
 ![header](https://github.com/4-en/4-en/assets/105049118/1f22e492-1493-42fe-b4dc-4b7245570910)
 ### Hi there 👋
-my name is Ben and I'm a Media Computer Science student from Germany.
+my name is Ben and I'm a Computer Science student from Germany.
 
 Most of these projects are just for fun or related to my studies. They are from a few different fields and I hope you find something interesting :smile:
 
