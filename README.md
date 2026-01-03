@@ -13,12 +13,13 @@ The projects are written in a few different languages, but the most important on
 - Email: [bschumacher@stud.hs-bremen.de](mailto:bschumacher@stud.hs-bremen.de)
 - GitHub: [@4-en](https://github.com/4-en)
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=4-en&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=4-en&theme=tokyonight&count_weight=0.5&size_weight=0.2&layout=donut&hide=jupyter%20notebook,hlsl,shaderlab,html,css,&card_width=320&exclude_repo=SmallWorld,)" alt="Top Langs">
-</a>
+  <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=4-en&theme=tokyonight&count_weight=0.5&size_weight=0.5&layout=donut&hide=jupyter%20notebook,hlsl,shaderlab,html,css,&card_width=320&exclude_repo=SmallWorld,)" alt="Top Langs">
+</a>-->
 
 
 
