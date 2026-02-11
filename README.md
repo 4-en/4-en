@@ -10,7 +10,7 @@ The projects are written in a few different languages, but the most important on
 - JavaScript :wastebasket:
 
 ### 📫 How to reach me:
-- Email: [bschumacher@stud.hs-bremen.de](mailto:bschumacher@stud.hs-bremen.de)
+- Email: ben [at] benschumacher [dot] eu
 - GitHub: [@4-en](https://github.com/4-en)
 
 <!--
